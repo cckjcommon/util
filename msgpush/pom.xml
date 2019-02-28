@@ -23,7 +23,11 @@
     <repositories>
         <repository>
             <id>getui-nexus</id>
+            <layout>default</layout>
             <url>http://mvn.gt.igexin.com/nexus/content/repositories/releases/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
         </repository>
 
     </repositories>
