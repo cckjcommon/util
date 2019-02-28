@@ -1,0 +1,4 @@
+com/chengchengtech/common/rid/filter/mo/RequestInfo.class
+com/chengchengtech/common/rid/filter/RequestIdentityFilter.class
+com/chengchengtech/common/rid/filter/RequestIdentityHolder.class
+com/chengchengtech/common/rid/filter/mo/ThreadLocalMap.class
